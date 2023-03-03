@@ -7,13 +7,20 @@
   -Gemのインストール
   -rails s 起動
   -ブラウザの接続確認（fruit）が登録できるか
+![rails](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image1.png)
+![rails2](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image2.png)
+![rails3](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image3.png)
 
 2.APサーバーについて
 　-Puma　バージョン確認（画像参照）
+![rails4](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image4.png)
+![rails5](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image5.png)
 
 3.DBサーバーについて
 　-MySQLの起動
 　-バージョン確認（画像参照）
+![rails6](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image6.png)
+![rails7](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image7.png)
 
 4.Railsの構成管理ツールの名前
 　-Gem
