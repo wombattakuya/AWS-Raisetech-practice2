@@ -11,6 +11,8 @@
 ![rails2](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image2.png)
 ![rails3](https://github.com/wombattakuya/AWS-Raisetech-practice2.git/image3.png)
 
+![rails1-4](image1.png)
+
 ![rails1-3](https://github.com/wombattakuya/AWS-Raisetech-practice2/tree/game3/iamge1.png)
 
 ![rails1-2](https://github.com/wombattakuya/AWS-Raisetech-practice2/iamge1.png)
