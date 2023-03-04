@@ -20,6 +20,13 @@
   pumaの終了
   "Ctrl + c"
   繰り返す！
+  APサーバー（Puma）を終了させた後、再びサーバーを起動することはできる
+
+AP サーバーを終了させた場合、引き続きアクセスできますか？結果を確認して、また AP サー
+バーを起動してください。
+サーバーを起動することはできました。アクセスできたかどうかについてはわかりません。
+
+
 ![rails1-4](image4.png)
 ![rails1-5](image5.png)
 ![rails6](https://github.com/wombattakuya/AWS-Raisetech-practice2/blob/game3/image6.png?raw=true)
@@ -33,6 +40,11 @@
 "quit"で終了
 "mysql -u root -p"
 パスワードで再びMySQLへ
+
+DB サーバーを終了させた場合、引き続きアクセスできますか？
+サーバーを終了させたあと、再びパスワードを打ち込んで起動することはできます。
+アクセスできたかどうかはわかりません。
+
 ![rails7](https://github.com/wombattakuya/AWS-Raisetech-practice2/blob/game3/image7.png?raw=true)
 ![rails1-8](image8.png)
 ![rails1-9](image9.png)
