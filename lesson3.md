@@ -13,19 +13,36 @@
 
 2.APサーバーについて
 　-Puma　バージョン確認（画像参照）
+  "puma --version"    puma version 5.6.5
+  "cd raisetech-live8-sample-app"で対象フォルダに移動する！！
+  pumaの起動
+  "rails s"
+  pumaの終了
+  "Ctrl + c"
+  繰り返す！
 ![rails1-4](image4.png)
 ![rails1-5](image5.png)
+![rails6](https://github.com/wombattakuya/AWS-Raisetech-practice2/blob/game3/image6.png?raw=true)
 
 3.DBサーバーについて
 　-MySQLの起動
 　-バージョン確認（画像参照）
-![rails6](https://github.com/wombattakuya/AWS-Raisetech-practice2/blob/game3/image6.png?raw=true)
+"sudo cat /var/log/mysqld.log | grep "temporary password" | awk '{print $13}'"
+"mysql -u root -p"
+パスワードを打ち込む（打ち込んでも見えない）
+"quit"で終了
+"mysql -u root -p"
+パスワードで再びMySQLへ
 ![rails7](https://github.com/wombattakuya/AWS-Raisetech-practice2/blob/game3/image7.png?raw=true)
+![rails1-8](image8.png)
+![rails1-9](image9.png)
 
 4.Railsの構成管理ツールの名前
 　-Gem
 　①パッケージ
 　②パッケージ管理ツール
+  構成管理としてBundlerと呼ばれるツールを使う。
+  "bundle install"を用いる
 
 5.今回の課題から学んだこと
 　課題から学んだことは２点あります。1点目は、Railsを使ってアプリケーションを作動
