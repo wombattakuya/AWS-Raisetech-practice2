@@ -11,7 +11,5 @@
 
 enter２つ→できた<br><br>
 https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/a3fb9d6c-9dce-4ba4-996a-be692d326209
-<br>※画像添付　VSCODEにて<br>shift＆ドラック&ドロップで画像添付<br><br>![Alt text](20231106_lecture04pic3.PNG)![Alt text](20231106_lecture04pic2.PNG) ![Alt text](20231106_lecture04pic3-1.PNG)![Alt text](20231106_lecture04pic4.PNG) ![Alt text](20231106_lecture04pic3-2.PNG)
-![Alt text](20231106_lecture04pic1-1.PNG)
-
+<br>※画像添付　VSCODEにて<br>shift＆ドラック&ドロップで画像添付<br><br>https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/30d9b5f7-b191-4dc1-96c0-e626958962ac<br>https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/a404a336-c0a1-4214-b3c3-2278ec485f0f<br>https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/f6a7e1bb-d5de-4058-81f4-f49694ba2602<br>https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/5a735560-2584-4ee3-bc37-4facf125ce97
 
