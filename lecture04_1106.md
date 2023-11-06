@@ -9,6 +9,8 @@
 　　RDSも細かな設定が必要
 4.　Githubへの課題のPR
 　　久しぶりに触るとどんなものだったかをすっかりわすれている。
+https://github.com/wombattakuya/AWS-Raisetech-practice2/assets/124788194/a3fb9d6c-9dce-4ba4-996a-be692d326209
+
 
 
 
