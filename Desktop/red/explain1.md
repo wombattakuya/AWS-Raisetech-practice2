@@ -8,7 +8,7 @@
 
 2-2. vim hoge.md
 
-3. git add  (すべてを追加)
+3. git add . (すべてを追加)
 
 4. git commit -m "something"
 
