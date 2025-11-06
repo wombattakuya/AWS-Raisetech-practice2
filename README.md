@@ -1,13 +1,14 @@
 #1見出しgithubの使い方
 
-1.githubにログインする
-2.creat new repository（ブラウザ上・googlechromeなど）
-* すでに作成しているリポジトリがあれば活用する
-    * アスタリスク+半角スペース　*は斜体になる*
-- ハイフン+半角スペースでも可能  
+1.githubにログインする<br>
+2.creat new repository（ブラウザ上・googlechromeなど)<br>
+* すでに作成しているリポジトリがあれば活用する<br>
+    * アスタリスク+半角スペース　*は斜体になる*<br>
+- ハイフン+半角スペースでも可能<br>
     - リスト２
 
-3.ローカルの任意の場所（保存したい場所　例えばCドライブのdocumentフォルダの中など）で右クリック→git bush hereでgitvashを開く
+3.ローカルの任意の場所（保存したい場所　例えばCドライブのdocumentフォルダの中など）で右クリック<br>
+→git bush hereでgitvashを開く<br>
 4.リポジトリの「code」をクリックし、httpsのタブを選択（してあるはず）URLをコピーする
 5.（ローカル）先ほど開いたgitbashで「git clone "先ほどコピーしたURL"」
 リモートからローカルにリポジトリがクローン・コピーされる
