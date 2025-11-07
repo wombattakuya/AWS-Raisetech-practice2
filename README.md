@@ -33,3 +33,4 @@ git checkout main <br>
 git pull URL<br>
 リモートの情報をローカルに反映<br>
 
+プルリクエストが無限につながる<br>
