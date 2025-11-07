@@ -19,4 +19,6 @@
 終了する際はESC→:wqで保存して終了する（gitbashに戻る）
 10.「git add」
 
+git push origin main
+
 
