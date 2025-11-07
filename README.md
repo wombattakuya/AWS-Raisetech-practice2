@@ -26,4 +26,10 @@ git push origin sheep<br>
 
 どのように使い分けるのか？<br>
 
-git pull origin sheep を実行
+git pull origin sheep を実行<br>
+
+
+git checkout main <br>
+git pull URL<br>
+リモートの情報をローカルに反映<br>
+
