@@ -13,6 +13,7 @@
 5.（ローカル）先ほど開いたgitbashで「git clone "先ほどコピーしたURL"」<br>
 リモートからローカルにリポジトリがクローン・コピーされる<br>
 6.「ls」を入力→何もないことを確認　「ls」→フォルダの中のファイルが何があるか確認する<br>
+<<<<<<< HEAD
 7.「mkdir (フォルダ名raisetech-demo)」　raisetech-demoなどのフォルダを作成するmake directry フォルダを作成する
 8.「cd(フォルダ名raisetech-demo)」先ほど作成したフォルダに移動
 9.「vim demo.md」マークダウン記法のファイルを作成して編集する
@@ -21,4 +22,13 @@
 
 git push origin main
 
+=======
+7.「mkdir (フォルダ名raisetech-demo)」　raisetech-demoなどのフォルダを作成するmake directry フォルダを作成する<br>
+8.「cd(フォルダ名raisetech-demo)」先ほど作成したフォルダに移動<br>
+9.「vim demo.md」マークダウン記法のファイルを作成して編集する<br>
+終了する際はESC→:wqで保存して終了する（gitbashに戻る）<br>
+10.「git add .」<br>
+11.「git commit -m "first commit"（説明コメントをいれる）」<br>
+12.「git -u origin main」（mainの部分はブランチ名が入る　ブランチ名:catなら　catが入る<br>
+>>>>>>> d42f5129dcd945c3b66175ceb4c319bafc43c5be
 
