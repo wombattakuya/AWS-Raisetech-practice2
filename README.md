@@ -24,4 +24,6 @@ git push origin main<br>
 
 git push origin sheep<br>
 
-どのように使い分けるのか？
+どのように使い分けるのか？<br>
+
+git pull origin sheep を実行
